@@ -27,10 +27,10 @@ The Confidential ERC-20 Framework empowers users to engage in secure and private
 
 If you need more information and development inquires, you can contact me.
 
-Telegram: [@dwlee918](https://t.me/@dwlee918)
+Telegram: [@diasibt](https://t.me/@diasibt)
 
-X: [@derricklee918](https://x.com/derricklee918)
+X: [@DiasIbt101](https://x.com/DiasIbt101)
 
-Discord: [@muratcanbey.](https://discordapp.com/users/348484668448047107)
+Discord: [@dias_ishbulatov](https://discordapp.com/users/1213745904599961631)
 
 Thanks.
