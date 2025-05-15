@@ -27,8 +27,8 @@ The Confidential ERC-20 Framework empowers users to engage in secure and private
 
 If you need more information and development inquires, you can contact me.
 
-LinkedIn: [@Ljubomir Igic](https://www.linkedin.com/in/ljubomir-igic-6a9615340)
+LinkedIn: [@Dias Ishbulatov](https://www.linkedin.com/in/dias-ishbulatov)
 
-Telegram: [@Ljubomir Igic](https://t.me/@ljubomir_igic)
+Telegram: [@Bitman09](https://t.me/@bitman09)
 
 Thanks.
